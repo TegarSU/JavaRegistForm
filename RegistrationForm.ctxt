@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RegistrationForm
+comment1.params=
+comment1.target=RegistrationForm()
+comment2.params=
+comment2.target=void\ createWindow()
+comment3.params=
+comment3.target=void\ setLocationAndSize()
+comment4.params=
+comment4.target=void\ addComponentsToFrame()
+comment5.params=
+comment5.target=void\ actionEvent()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

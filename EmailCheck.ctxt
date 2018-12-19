@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EmailCheck
+comment1.params=observer
+comment1.target=void\ attach(ObserverEmail)
+comment2.params=observer
+comment2.target=void\ detach(ObserverEmail)
+comment3.params=
+comment3.target=void\ Update()
+numComments=4
